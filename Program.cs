@@ -5,7 +5,7 @@
         public static void Main(string[] args)
         {
             //Declaración de Variables
-            String name, strNum1, strNum2, strNum3, status;
+            String? name, strNum1, strNum2, strNum3, status;
             double num1, num2, num3, sumScore, totalAvg; 
 
             //Inicio y Bienvenida del Programa
